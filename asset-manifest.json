@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/alex67u/static/css/main.a4a0cbf7.css",
-    "main.js": "/alex67u/static/js/main.d0f24fca.js",
+    "main.js": "/alex67u/static/js/main.c59a1ec4.js",
     "static/css/479.6fd6df87.chunk.css": "/alex67u/static/css/479.6fd6df87.chunk.css",
     "static/js/479.662efc8b.chunk.js": "/alex67u/static/js/479.662efc8b.chunk.js",
     "static/css/135.ada8800f.chunk.css": "/alex67u/static/css/135.ada8800f.chunk.css",
-    "static/js/135.b12bbedb.chunk.js": "/alex67u/static/js/135.b12bbedb.chunk.js",
+    "static/js/135.a9c76619.chunk.js": "/alex67u/static/js/135.a9c76619.chunk.js",
     "static/css/2.ada8800f.chunk.css": "/alex67u/static/css/2.ada8800f.chunk.css",
     "static/js/2.b22a6d72.chunk.js": "/alex67u/static/js/2.b22a6d72.chunk.js",
     "static/css/812.ada8800f.chunk.css": "/alex67u/static/css/812.ada8800f.chunk.css",
@@ -32,11 +32,11 @@
     "static/media/20_Gally.png": "/alex67u/static/media/20_Gally.04e9da17d39048605900.png",
     "index.html": "/alex67u/index.html",
     "main.a4a0cbf7.css.map": "/alex67u/static/css/main.a4a0cbf7.css.map",
-    "main.d0f24fca.js.map": "/alex67u/static/js/main.d0f24fca.js.map",
+    "main.c59a1ec4.js.map": "/alex67u/static/js/main.c59a1ec4.js.map",
     "479.6fd6df87.chunk.css.map": "/alex67u/static/css/479.6fd6df87.chunk.css.map",
     "479.662efc8b.chunk.js.map": "/alex67u/static/js/479.662efc8b.chunk.js.map",
     "135.ada8800f.chunk.css.map": "/alex67u/static/css/135.ada8800f.chunk.css.map",
-    "135.b12bbedb.chunk.js.map": "/alex67u/static/js/135.b12bbedb.chunk.js.map",
+    "135.a9c76619.chunk.js.map": "/alex67u/static/js/135.a9c76619.chunk.js.map",
     "2.ada8800f.chunk.css.map": "/alex67u/static/css/2.ada8800f.chunk.css.map",
     "2.b22a6d72.chunk.js.map": "/alex67u/static/js/2.b22a6d72.chunk.js.map",
     "812.ada8800f.chunk.css.map": "/alex67u/static/css/812.ada8800f.chunk.css.map",
@@ -53,6 +53,6 @@
   },
   "entrypoints": [
     "static/css/main.a4a0cbf7.css",
-    "static/js/main.d0f24fca.js"
+    "static/js/main.c59a1ec4.js"
   ]
 }
