@@ -1,0 +1,11 @@
+{
+    "id": 8,
+    "title": "3D OpenGL",
+    "image": "Bonobo3D.png",
+    "techno" : ["C++","OpenGL"],
+    "content": "Pendant la période du COVID, j'ai profité du temps libre pour me lancer dans un projet personnel visant à approfondir mes compétences en programmation graphique. J'ai décidé de développer une application 3D en C++ en utilisant OpenGL, une bibliothèque graphique 3D. L'objectif principal de ce projet était de créer un moteur de rendu capable de générer et d'afficher des scènes 3D en temps réel, tout en explorant les techniques fondamentales du rendu graphique, comme l'éclairage, les shaders, et la manipulation de textures. Ce projet a été une opportunité idéale pour expérimenter et mieux comprendre les concepts de base de la 3D.",
+    "date": "2020",
+    "data": "Article_8.js",
+    "featured": true,
+    "featuredcss": "medium"
+}

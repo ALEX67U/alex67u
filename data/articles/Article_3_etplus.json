@@ -1,0 +1,10 @@
+{
+    "id": 3,
+    "title": "Stage à Troisetplus",
+    "image" :"troisetplus.png",
+    "techno" : ["WordPress","PHP","JavaScript","HTML","CSS"],
+    "content": "Pour valider ma licence en informatique, j'ai réaliser un stage de 3 mois au sein de troisetplus, j'ai pu acquérir une expérience pratique dans le domaine du développement web et renforcer mes compétences dans ce domaine. Le projet principal de mon stage consistait à participer à toutes les étapes de réalisation d'un site internet, jusqu'à sa livraison finale",
+    "date": "2023-04-17",
+    "featured": true,
+    "featuredcss": "large"
+}

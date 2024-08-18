@@ -1,0 +1,11 @@
+{
+    "id": 9,
+    "title": "Map procédurale",
+    "image" : "ProceduralMap.png",
+    "techno" : ["C","SDL2"],
+    "content": "Un autre projet personnel que j'ai réalisé est un générateur de cartes procédural en 2D, développé en C avec la SDL2. Ce projet utilise une carte 2D avec un générateur de bruit personnalisé pour créer une carte unique. La version que je présente ici n'est pas la plus récente, car j'ai malheureusement perdu la dernière version qui incluait une correction des pôles pour un rendu sphérique amélioré.",
+    "date": "2019-10",
+    "data": "Article_9.js",
+    "featured": true,
+    "featuredcss": "low"
+}

@@ -1,0 +1,11 @@
+{
+    "id": 7,
+    "title": "Métaheuristiques",
+    "image": "Metaheuristique.png",
+    "techno" : ["Java"],
+    "content": "Dans le cadre du module de cours “Métaheuristique” au sein de l'UFR MIM, nous avons exploré le problème du voyageur de commerce (TSP), un défi en optimisation combinatoire avec des applications pratiques en logistique, planification d’itinéraires et conception de circuits électroniques. Ce rapport examine plusieurs stratégies algorithmiques pour résoudre le TSP : les algorithmes des colonies de fourmis, le recuit simulé, l’algorithme génétique et la méthode 2-OPT. Chaque méthode est évaluée en termes d’efficacité et de capacité à trouver des solutions proches de l’optimal dans des délais raisonnables.",
+    "date": "2024-03-14",
+    "data": "Article_7.js",
+    "featured": true,
+    "featuredcss": "medium"
+}

@@ -1,0 +1,95 @@
+Évaluation des projets
+100 exécutions
+60 secondes
+10 projets
+4 problèmes
+
+tsp.projects.competitor.GeneticHill2Opt
+bier127    	118337.33769339463
+gr666      	3168.5659086819965
+pr8192     	16382.0
+surprise903	4374.227868294733
+
+tsp.projects.competitor.TwoGirlsOneMetaheuristicCompetitor
+bier127    	122730.23748276463
+gr666      	3621.3279402551975
+pr8192     	23355.722739604513
+surprise903	5047.925602775649
+
+tsp.projects.competitor.BakiTKO
+bier127    	118304.14112602551
+gr666      	3156.8917857904808
+pr8192     	16382.0
+surprise903	4363.962594210435
+
+tsp.projects.competitor.tu_etais_FOURMIdable.ant
+bier127    	258407.5758335024
+gr666      	3946.13089993673
+pr8192     	20535.955260825012
+surprise903	5395.599670284425
+
+tsp.projects.competitor.grasp.Grasp
+bier127    	125539.89128687454
+gr666      	3919.752896656573
+pr8192     	20476.182051449505
+surprise903	5305.885232866676
+
+tsp.projects.competitor.GearSecantes
+bier127    	124849.19418997529
+gr666      	3777.1853256714016
+pr8192     	20476.0
+surprise903	5236.173884232288
+
+tsp.projects.competitor.genetique.Genetique
+bier127    	211447.77646708878
+gr666      	44932.38928881388
+pr8192     	2.2018928867281135E7
+surprise903	180736.89990915734
+
+tsp.projects.competitor.voisinage.LeRandonneurGourmand
+bier127    	123765.72285707516
+gr666      	3835.314813662062
+pr8192     	20475.970020310284
+surprise903	5276.12738260848
+
+tsp.projects.competitor.Patator3000
+bier127    	125594.49542678932
+gr666      	3787.1800919350367
+pr8192     	20474.370330204783
+surprise903	5231.211151964417
+
+tsp.projects.competitor.fourmilion.Fourmilion
+bier127    	124183.6778893979
+gr666      	4743.176610565071
+pr8192     	16382.0
+surprise903	7114.317828286684
+
+Projet BakiTKO
+Évaluation: 0.0
+
+Projet Genetic +(HillClimbing + 2opt)
+Évaluation: 0.15827166113871233
+
+Projet GearSecantes
+Évaluation: 17.539697403779712
+
+Projet Patator3000
+Évaluation: 17.745427459209122
+
+Projet Le Randonneur Gourmand
+Évaluation: 17.999913898948503
+
+Projet 2Girls1Metaheuristic
+Évaluation: 19.173876543265418
+
+Projet Grasp
+Évaluation: 19.21430974805828
+
+Projet Fourmillion 🐜
+Évaluation: 29.56060567642281
+
+Projet ColonieDeFourmi_Tu_étais_FOURMIdable
+Évaluation: 48.105934473739339
+
+Projet Méthode génétique
+Évaluation: 34938.22620609701

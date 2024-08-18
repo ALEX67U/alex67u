@@ -1,0 +1,11 @@
+{
+    "id": 6,
+    "title": "IA Awélé",
+    "image":"Awele.png",
+    "techno" : ["Java"],
+    "content": "Dans le cadre de ce projet en IA à l'UFR MIM, j'ai développé une intelligence artificielle pour le jeu traditionnel africain Awélé. Mon objectif était de créer un bot capable de jouer de manière compétitive en utilisant des algorithmes avancés, en particulier l'algorithme MinMax.",
+    "date": "2024-03",
+    "data": "Article_6.js",
+    "featured": true,
+    "featuredcss": "low"
+}

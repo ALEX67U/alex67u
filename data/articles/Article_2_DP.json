@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "title": "Design Patterns",
+    "image" :"DP_ECS.png",
+    "techno" : ["Java"],
+    "content": "Ce projet était réalisé dans le cadre du module \"initiation à la recherche\" de l'UFR MIM, dont Le rapport explore l'intégration des Design Patterns en programmation orientée objet pour optimiser le développement logiciel, en mettant en lumière leurs avantages, défis et leur évolution face aux technologies émergentes, illustré par l'étude de cas du projet \"AngryBalls\" avec le modèle ECS.",
+    "date": "2024-05",
+    "data": "Article_2.js",
+    "featured": true,
+    "featuredcss": "low"
+}

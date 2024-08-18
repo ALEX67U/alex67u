@@ -1,0 +1,11 @@
+{
+    "id": 10,
+    "title": "ISN",
+    "image" : "ISN.png",
+    "techno" : ["C","SDL2"],
+    "content": "Lors de ma dernière année au lycée, j'ai eu la chance de rejoindre l'option ISN (informatique et Sciences du Numérique). Au cours de cette période, j'ai réalisé trois projets intéressants : la création d'un logo personnalisé, le développement d'un dénimeur, et la conception d'un jeu de tape-taupe interactif.",
+    "date": "2018",
+    "data": "Article_10.js",
+    "featured": true,
+    "featuredcss": "low"
+}
