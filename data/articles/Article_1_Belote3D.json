@@ -5,7 +5,7 @@
     "techno" : ["Java","Angular","TypeScript","JavaScript","HTML","CSS","MongoDB","UML"],
     "content": "Projet réalisé dans le cadre du module ACL, Analyse et conception d'une application, avec comme objectif final le développement du jeu de la Belote. Ce projet a impliqué une exploration approfondie des technologies disponibles, notamment l'utilisation de Three.js intégré dans l'environnement Angular. L'objectif était d'offrir une expérience visuelle immersive et interactive, augmentant ainsi l'attrait et l'engagement des utilisateurs tout en respectant les contraintes techniques du projet.",
     "date": "2023-10",
-    "data": "Article_9.js",
-    "featured": true,
+    "data": "",
+    "featured": false,
     "featuredcss": "medium"
 }

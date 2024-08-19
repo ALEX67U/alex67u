@@ -4,6 +4,6 @@
     "techno" : ["Python","Ollama","LLM","TTS"],
     "content": "Je développe un assistant IA qui utilise les modèles LLM d'Ollama, couplés avec un système de synthèse vocale multilingue utilisant des modèles TTS pour générer et lire des messages audio en plusieurs langues.",
     "date": "2024-07",
-    "featured": true,
+    "featured": false,
     "featuredcss": "low"
 }

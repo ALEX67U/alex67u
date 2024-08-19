@@ -5,7 +5,7 @@
     "techno" : ["Java","OpenGL"],
     "content": "Durant mon temps libre, je développe un projet en Java avec OpenGL, centré sur la création d'un moteur 3D. Actuellement, je travaille sur la gestion des chunks pour le rendu des voxels procédurale. Mon objectif actuel est d'optimiser les performances du rendu en temps réel afin d'assurer une fluidité graphique et un visuelle optimale.",
     "date": "2024-08",
-    "data": "Article_4.js",
-    "featured": true,
+    "data": "",
+    "featured": false,
     "featuredcss": "medium"
 }
